@@ -1,8 +1,8 @@
 import React from 'react';
-import Head from './components/Head';
-import Footer from './components/Footer';
+import Head from './component/Head';
+import Footer from './component/Footer';
 import { useState } from 'react'
-import TodoList from './components/TodoList';
+import TodoList from './component/Todolist';
 
 function App() {
 
