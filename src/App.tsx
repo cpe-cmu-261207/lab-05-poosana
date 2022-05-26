@@ -11,7 +11,7 @@ function App() {
     <div>
 
       {/* header section */}
-        <Head main = "Minimal Todo List" firstname = "Poosana" lastname = "Thassanavisut" id = {620612161}></Head>
+        <Head main = " Fill your favourite NFT address down below" firstname = "" lastname = "" id ={32313131231}></Head>
 
       {/* todo section */}
        <TodoList></TodoList>
